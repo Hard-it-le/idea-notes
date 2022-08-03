@@ -61,10 +61,14 @@ export default hopeTheme({
         },
     },
 
+    // 加密
     encrypt: {
+        // 局部加密
         config: {
             '/guide/encrypt.html': ['1234'],
         },
+        //全局加密
+        global: false,
     },
 
     plugins: {
@@ -100,7 +104,18 @@ export default hopeTheme({
         //     // provider: "Waline",
         //     // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
         // },
-
+        // 代码复制
+        copyCode: {
+            duration: 1000,
+        },
+        // 图片预览
+        photoSwipe: false,
+        // 搜索
+        // 版权
+        copyright: {
+            global: true,
+        },
+        // md 增强
         mdEnhance: {
             enableAll: true,
             gfm: true,
