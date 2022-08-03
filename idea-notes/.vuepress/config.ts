@@ -1,12 +1,27 @@
-import { defineUserConfig } from "vuepress";
-import theme from "./theme";
+import {defineUserConfig} from 'vuepress';
+import theme from './theme';
 
 export default defineUserConfig({
-  lang: "zh-CN",
-  title: "主题演示",
-  description: "vuepress-theme-hope 的演示",
+    lang: 'zh-CN',
+    dest: './dist',
+    title: 'IDEA 高效使用指南',
+    description: 'vuepress-theme-hope 的演示',
 
-  base: "/",
+    base: '/',
+    locales: {
+        '/': {
+            lang: 'zh-CN',
+        },
+    },
+    head: [
+        [
+            'link',
+            {
+                rel: 'stylesheet',
+                href: '//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css',
+            },
+        ],
+    ],
 
-  theme,
+    theme,
 });
