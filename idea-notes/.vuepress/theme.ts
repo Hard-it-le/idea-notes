@@ -13,17 +13,21 @@ export default hopeTheme({
         name: 'Guide',
         url: 'https://mrhope.site',
     },
+    // 图片资源
     iconAssets: 'iconfont',
-    // navbar
+    // navbar 导航栏配置
     navbar: navbar,
 
-    // sidebar
+    // sidebar，侧边栏配置
     sidebar: sidebar,
 
+    // 自定义页脚
     footer: '主题: <a href="https://vuepress-theme-hope.github.io/v2/">VuePress Theme Hope</a></br><a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a>',
     displayFooter: true,
 
+    // 文章展示内容
     pageInfo: ['Author', 'Category', 'Tag', 'Date', 'Original', 'Word'],
+    // 个人信息
     blog: {
         description: '一个前端开发者',
         intro: 'https://javaguide.cn/about-the-author/',
