@@ -13,6 +13,8 @@ export default hopeTheme({
         name: 'Guide',
         url: 'https://mrhope.site',
     },
+    // 页面模式切换
+    darkmode: 'switch',
     // 图片资源
     iconAssets: 'iconfont',
     // navbar 导航栏配置
@@ -20,6 +22,9 @@ export default hopeTheme({
 
     // sidebar，侧边栏配置
     sidebar: sidebar,
+    // 显示下一页和上一页链接
+    nextLink: true,
+    prevLink: true,
 
     // 自定义页脚
     footer: '主题: <a href="https://vuepress-theme-hope.github.io/v2/">VuePress Theme Hope</a></br><a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a>',
@@ -82,6 +87,8 @@ export default hopeTheme({
         feed: {
             json: true,
         },
+        //网站地图
+        sitemap: false,
 
         // 如果你不需要评论，可以直接删除 comment 配置，
         // 以下配置仅供体验，如果你需要评论，请自行配置并使用自己的环境，详见文档。
