@@ -1,5 +1,6 @@
 import {defineUserConfig} from 'vuepress';
 import theme from './theme';
+import {searchPlugin} from '@vuepress/plugin-search';
 
 export default defineUserConfig({
     lang: 'zh-CN',
@@ -24,4 +25,14 @@ export default defineUserConfig({
     ],
 
     theme,
+    plugins: [
+        searchPlugin({
+            locales: {
+                '/': {
+                    placeholder: '搜索',
+                },
+            },
+            maxSuggestions: 5,
+        }),
+    ],
 });

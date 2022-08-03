@@ -79,7 +79,6 @@ export default hopeTheme({
         //全局加密
         global: false,
     },
-
     plugins: {
         blog: {
             autoExcerpt: true,
