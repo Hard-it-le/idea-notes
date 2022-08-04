@@ -2,12 +2,13 @@
 title: IDEA 重构入门
 category: IDEA 指南
 tag:
-  - IDEA
-  - IDEA 插件
-  - 重构入门
+    - IDEA
+    - IDEA 教程
+    - 重构入门
 ---
 
-我们在使用 IDEA 进行重构之前，先介绍一个方便我们进行重构的快捷键: `ctrl+t(mac)/ctrl+shift+alt+t`（如果忘记快捷键的话，鼠标右键也能找到重构选项），使用这个快捷键可以快速调出常用重构的选项，如下图所示:
+我们在使用 IDEA 进行重构之前，先介绍一个方便我们进行重构的快捷键: `ctrl+t(mac)/ctrl+shift+alt+t`（如果忘记快捷键的话，鼠
+标右键也能找到重构选项），使用这个快捷键可以快速调出常用重构的选项，如下图所示:
 
 ![](./assets/refractor-help.png)
 
@@ -21,7 +22,8 @@ tag:
 
 这部分的快捷键实际很好记忆，我是这样记忆的:
 
-前面两个键位是 `command + option(mac) / ctrl + alt (Windows/Linux)` 是固定的，只有后面一个键位会变比如 Extract constant (提取变量)就是 c（constant）、Extract variable (提取变量)就是 v(variable)。
+前面两个键位是 `command + option(mac) / ctrl + alt (Windows/Linux)` 是固定的，只有后面一个键位会变比如 Extract constant
+(提取变量)就是 c（constant）、Extract variable (提取变量)就是 v(variable)。
 
 ### 提取常量(extract constant)
 

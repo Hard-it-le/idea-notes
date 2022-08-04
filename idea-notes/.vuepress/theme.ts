@@ -10,7 +10,7 @@ export default hopeTheme({
     iconPrefix: 'iconfont icon-',
     pure: true,
     author: {
-        name: 'Guide',
+        name: '努力的it小胖子',
         url: 'https://mrhope.site',
     },
     // 页面模式切换
@@ -35,7 +35,7 @@ export default hopeTheme({
     // 个人信息
     blog: {
         description: '一个前端开发者',
-        intro: 'https://javaguide.cn/about-the-author/',
+        intro: 'https://java努力的it小胖子.cn/about-the-author/',
         sidebarDisplay: 'mobile',
         medias: {
             Baidu: 'https://example.com',
@@ -74,7 +74,7 @@ export default hopeTheme({
     encrypt: {
         // 局部加密
         config: {
-            '/guide/encrypt.html': ['1234'],
+            '/努力的it小胖子/encrypt.html': ['1234'],
         },
         //全局加密
         global: false,

@@ -10,13 +10,13 @@
   <a href="https://gitee.com/SnailClimb/awesome-idea">Gitee</a>
 </p>
 
-在线阅读：[https://idea.javaguide.cn/](https://idea.javaguide.cn/)
+在线阅读：[https://idea.java 努力的 it 小胖子.cn/](https://idea.java努力的it小胖子.cn/)
 
 IntelliJ IDEA 使用指南 | 必备插件推荐 | 插件开发入门 | 重构小技巧 | 源码阅读技巧
 
 ## 小技巧
 
--   [IDEA 高效使用指南](./docs/tips/efficient-use-guide.md)
+-   [IDEA 高效使用指南](./docs/tips/efficient-use-努力的it小胖子.md)
 -   [IDEA 高效重构指南](./docs/tips/refractor-intro.md)
 -   [IDEA 插件开发入门](./docs/tips/plug-in-development-intro.md)
 -   [IDEA 源码阅读小技巧](./docs/tips/source-code-reading-skills.md)

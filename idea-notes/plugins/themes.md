@@ -2,11 +2,12 @@
 title: IDEA 主题推荐
 category: IDEA 指南
 tag:
-  - IDEA
-  - IDEA 插件
+    - IDEA
+    - IDEA 插件
 ---
 
-经常有小伙伴问我: “Guide 哥，你的 IDEA 主题怎么这么好看，能推荐一下不？”。就实在有点不耐烦了，才索性写了这篇文章。
+经常有小伙伴问我: “努力的 it 小胖子 哥，你的 IDEA 主题怎么这么好看，能推荐一下不？”。就实在有点不耐烦了，才索性写了这篇
+文章。
 
 在这篇文章中，我精选了几个比较是和 Java 编码的 IDEA 主题供小伙伴们选择。另外，我自己用的是 One Dark theme 这款。
 
@@ -26,11 +27,11 @@ tag:
 
 当你安装完这个插件之后，你会发现这个主题本身又提供了多种相关的主题供你选择。
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20/image-20201119182935201.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20/image-20201119182935201.png)
 
 **Material Deep Ocean** 这款的效果图如下。默认的字体是真的小，小伙伴们需要自行调整一下。
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20/image-20201119183044068.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20/image-20201119183044068.png)
 
 ## [One Dark theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
 
@@ -42,7 +43,7 @@ tag:
 
 这款主题的效果图如下。
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20-11/image-20201119180300975.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20-11/image-20201119180300975.png)
 
 ## [Gradianto](https://plugins.jetbrains.com/plugin/12334-gradianto)
 
@@ -54,11 +55,11 @@ Gradianto 这个主题的目标是在保持页面色彩比较层次分明的情�
 
 Gradianto 附带了自然界的渐变色，看着挺舒服的。另外，这个主题本身也提供了多种相关的主题供你选择。
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20/image-20201119183825753.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20/image-20201119183825753.png)
 
 **Gradianto Nature Green** 的效果图如下。
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20/image-20201119183920889.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20/image-20201119183920889.png)
 
 ## [Dark Purple Theme](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
 
@@ -70,7 +71,7 @@ Gradianto 附带了自然界的渐变色，看着挺舒服的。另外，这个�
 
 这个主题的效果图如下。个人觉得整体颜色搭配的是比较不错的，适合编码！
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20-11/image-20201119184654132.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20-11/image-20201119184654132.png)
 
 ## [Hiberbee Theme](https://plugins.jetbrains.com/plugin/12118-hiberbee-theme)
 
@@ -82,7 +83,7 @@ Gradianto 附带了自然界的渐变色，看着挺舒服的。另外，这个�
 
 这个主题的效果图如下。看着也是非常赞！适合编码！
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20-11/image-20201119191441248.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20-11/image-20201119191441248.png)
 
 上面推荐的都是偏暗色系的主题，这里我再推荐两款浅色系的主题。
 
@@ -96,7 +97,7 @@ Gradianto 附带了自然界的渐变色，看着挺舒服的。另外，这个�
 
 这个主题的效果图如下。
 
-![](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/11-20-11/image-20201119194512164.png)
+![](https://cdn.jsdelivr.net/gh/java努力的it小胖子-tech/blog-images-3@main/11-20-11/image-20201119194512164.png)
 
 ## [Roboticket Light Theme](https://plugins.jetbrains.com/plugin/12191-roboticket-light-theme)
 

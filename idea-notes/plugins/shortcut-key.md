@@ -2,8 +2,8 @@
 title: IDEA 快捷键相关插件
 category: IDEA 指南
 tag:
-  - IDEA
-  - IDEA 插件
+    - IDEA
+    - IDEA 插件
 ---
 
 相信我！下面这两个一定是 IDEA 必备的插件。
@@ -12,9 +12,10 @@ tag:
 
 这个插件的功能主要是**在你本可以使用快捷键操作的地方提醒你用快捷键操作。**
 
-举个例子。我直接点击 tab 栏下的菜单打开 Version Control(版本控制) 的话，这个插件就会提示你可以用快捷键 `command+9`或者`shift+command+9`打开。如下图所示。
+举个例子。我直接点击 tab 栏下的菜单打开 Version Control(版本控制) 的话，这个插件就会提示你可以用快捷键 `command+9`或
+者`shift+command+9`打开。如下图所示。
 
-![](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/idea/Key-Promoter-X1.png)
+![](https://努力的it小胖子-blog-images.oss-cn-shenzhen.aliyuncs.com/idea/Key-Promoter-X1.png)
 
 除了这个很棒的功能之外，这个插件还有一个功能我觉得非常棒。
 
@@ -22,7 +23,7 @@ tag:
 
 我忘记最多的快捷键是 debug 的时候经常使用的 F8（Step Over）。如下图所示。
 
-![](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/idea/Key-Promoter-X2.png)
+![](https://努力的it小胖子-blog-images.oss-cn-shenzhen.aliyuncs.com/idea/Key-Promoter-X2.png)
 
 关于快捷键，很多人不愿意去记，觉得单纯靠鼠标就完全够了。
 
@@ -34,7 +35,8 @@ tag:
 
 **除了工作效率的提升之外，使用快捷键会让我们显得更加专业。**
 
-你在使用快捷键进行操作的时候，是很帅，很酷啊！但是，当你用 IDEA 给别人演示一些操作的时候，你使用了快捷键的话，别人可能根本不知道你进行了什么快捷键操作。
+你在使用快捷键进行操作的时候，是很帅，很酷啊！但是，当你用 IDEA 给别人演示一些操作的时候，你使用了快捷键的话，别人可能根
+本不知道你进行了什么快捷键操作。
 
 **怎么解决这个问题呢？**
 
